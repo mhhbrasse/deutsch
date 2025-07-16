@@ -2,7 +2,7 @@ This is a small fun hobby project based on the youtube movies below, in which a 
 
 The Deutsch algorithm is described in https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm
 
-References to the youtube movies:
+References to the youtube movies (by Mithuna Yoganathan)
 
 [0] https://www.youtube.com/watch?v=muoIG732fQA
 
